@@ -118,6 +118,7 @@ const detail = ({ route }) => {
               />
             )}
           </View>
+          <Text>to test account git</Text>
           <View
             style={{
               flexDirection: "row",
