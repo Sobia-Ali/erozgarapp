@@ -107,6 +107,7 @@ export default function Home({ navigation }) {
 
         <Icon name="cart-outline" size={28} />
         <Icon name="login" onPress={goTologin} title={"Login"} size={28} />
+       
       </View>
       <ScrollView>
         <View style={{ flexDirection: "row" }}>
@@ -122,6 +123,7 @@ export default function Home({ navigation }) {
             
           /> */}
           <Text style={style.headerTitle}>Felix furniture</Text>
+          <Text>test git account</Text>
         </View>
         <View
           style={{
